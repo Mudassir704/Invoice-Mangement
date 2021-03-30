@@ -1,0 +1,32 @@
+The objective of the project is:
+
+● To build a full stack Invoice Management Application using ReactJs,
+JDBC, Java and JSP.
+● Build a responsive Receivables Dashboard.
+● Visualize Data in the form of grids.
+● Perform Searching operations on the invoices.
+● Edit data in the editable fields of the grid.
+● Download data of selected rows in predefined templates.
+
+Milestone 1
+
+Data Loading in Database:
+● The data will be provided with a invoices dataset which you need to
+parse, process and load in the provided database schema.
+Details :
+● Read the CSV using JAVA.
+● Process the Data as per your schema, use the POJO classes for the same.
+● Try using Batch updates for entering your table values.
+● Handle all exceptions that may arise.
+
+
+Milestone 2
+
+UI Representation of the data:
+● Build a responsive UI which can display the invoice data loaded from the
+database.
+Details :
+● The UI should support searching and infinite scrolling operations.
+● The UI should support editing of some editable fields, adding a new row to
+the grid, deleting rows from the grid and downloading selected records
+from the grid in predefined template(s).
