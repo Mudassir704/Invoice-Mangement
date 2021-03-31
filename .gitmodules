@@ -1,0 +1,3 @@
+[submodule "invoice_managememnt_frontend"]
+	path = invoice_managememnt_frontend
+	url = https://github.com/Mudassir704/InvoiceManagementFrontened.git
